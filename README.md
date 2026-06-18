@@ -1,6 +1,6 @@
 # pregit
 
-My git commits are messy. I want to give them more structure and consistency.
+My git commits are messy. I want to give them more structure and consistency.this i
 
 ## Install
 
@@ -13,10 +13,9 @@ My git commits are messy. I want to give them more structure and consistency.
 
 1. Clone the repo:
 
-   ```bash
-   git clone [https://github.com/dnlaxe/pregit.git](https://github.com/dnlaxe/pregit.git)
+   ```
+   git clone https://github.com/dnlaxe/pregit.git
    cd pregit
-
    ```
 
 2. Build and install the binary:
