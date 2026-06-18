@@ -2,8 +2,6 @@
 
 My git commits are messy. I want to give them more structure and consistency.
 
-## Install
-
 ### Prerequisites
 
 - Go 1.18 or higher.
