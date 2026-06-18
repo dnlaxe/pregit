@@ -1,13 +1,13 @@
 # pregit
 
-My git commits are messy. I want to give them more structure and consistency.this i
+My git commits are messy. I want to give them more structure and consistency.
 
 ## Install
 
 ### Prerequisites
 
 - Go 1.18 or higher.
-- Git initialized in your repo.
+- Git initialized in repo.
 
 ### Build
 
@@ -18,7 +18,7 @@ My git commits are messy. I want to give them more structure and consistency.thi
    cd pregit
    ```
 
-2. Build and install the binary:
+2. Build + install the binary:
 
    ```
    make install
