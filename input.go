@@ -49,7 +49,7 @@ func selectFiles(options []string) (selected []string) {
 
 func selectPrefix() (prefix string) {
 
-	prefixes := []string{"feat", "ci", "fix", "docs", "style", "refactor", "chore", "test"}
+	prefixes := []string{"feat", "ci", "fix", "docs", "style", "refactor", "chore", "test", "deletion"}
 
 	prompt := &survey.Select{
 		Message: "Choose a prefix",
